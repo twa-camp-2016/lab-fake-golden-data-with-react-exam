@@ -1,0 +1,29 @@
+.full{
+    position: relative;
+    top:30px;
+}
+
+.preview{
+    position: relative;
+    top:40px;
+}
+
+.editor{
+    border:1px solid #afd9ee;
+    width:700px;
+    height:500px;
+    margin:0 auto;
+    text-align:center;
+    line-height:10px;
+}
+
+.editorItem{
+    margin-top:15px;
+}
+
+.PreviewItem{
+    position: relative;
+    top: 20px;
+    margin-top:15px;
+}
+
